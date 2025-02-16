@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Online_votingContextConnection"
+    },
+    "appInsights1": {
+      "type": "appInsights.sdk",
+      "dynamicId": null
+    }
+  }
+}
